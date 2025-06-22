@@ -31,6 +31,7 @@ This project explores trends and patterns in employee performance data to genera
 1. Clone the repository.
 2. Open the notebook in Jupyter.
 3. Run all cells to view results and visuals.
+4. Or you can open the .ipynb file through google collab, every step and instruction is already mentioned in the notebook.
 
 
 ## 📬 Connect with Me
